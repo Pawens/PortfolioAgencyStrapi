@@ -1,5 +1,6 @@
 import type { StrapiApp } from "@strapi/strapi/admin";
 import { registerPWA } from "./pwa";
+import "./responsive.css";
 
 export default {
   config: {

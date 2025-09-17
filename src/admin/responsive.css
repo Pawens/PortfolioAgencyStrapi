@@ -1,0 +1,8 @@
+/* Responsive fixes for Strapi admin login form */
+
+/* Mobile responsive adjustments */
+@media (max-width: 768px) {
+  .sc-FEMpB.fBRpRO.sc-bFYcde.bvbmTp {
+    width: auto !important;
+  }
+}
